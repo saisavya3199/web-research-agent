@@ -1,0 +1,5 @@
+langchain_google_genai
+langchain_community
+crawl4ai
+playwright
+streamlit
